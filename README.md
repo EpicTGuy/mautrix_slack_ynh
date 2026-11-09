@@ -5,9 +5,9 @@ Upstream bridge: <https://github.com/mautrix/slack> (mautrix-slack v0.2610.0, Go
 
 ## ⚠️ Status: looking for testers
 
-This package installs, upgrades, backs up / restores and registers with Synapse correctly (tested on YunoHost 12, Debian 12), but **logging in with a real Slack account has not been tested yet**.
+The YunoHost side of this package is tested on YunoHost 12 / Debian 12: install, upgrades with settings kept, backup / restore, registration with Synapse, config panel.
 
-If you use Slack and want to help, please install it and report how it went in the issues (login, sending/receiving messages, media). If it works, I'll propose it to the YunoHost catalog.
+**Feedback on real use is welcome**: please install it and report how it went in the issues (login, sending/receiving messages, media). Packages confirmed by testers will be proposed to the YunoHost catalog.
 
 ## Install
 
